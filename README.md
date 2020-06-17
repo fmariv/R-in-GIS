@@ -1,5 +1,5 @@
 # R in GIS
-Repository for the R in GIS course from the MappingGIS e-learning platform. The course goal was to learn how to perform spatial data analysis and modeling using R. Indeed, the course covered the enterily Data science process applied to GIS, including data collection, processing, in-depth anlysis and visualization.  
+Repository for the R in GIS course from the MappingGIS e-learning platform. The course goal was to learn how to perform spatial data analysis and modeling using R. Indeed, the course covered the enterily Data science process applied to GIS, including data collection, processing, in-depth analysis and visualization.  
 
 ---
 
